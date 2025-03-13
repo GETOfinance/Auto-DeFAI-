@@ -37,6 +37,7 @@ Edit `.env` file and add your credentials:
 
 # Required for MultiversX operations
 MVX_PRIVATE_KEY=your_private_key
+
 MVX_NETWORK=mainnet  # or devnet or testnet
 
 # Choose an API provider and add the API_KEY on the env file
